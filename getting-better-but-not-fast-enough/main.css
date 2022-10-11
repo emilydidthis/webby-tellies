@@ -12,6 +12,10 @@ p {
     display: inline-block;
 }
 
+p:hover, #title:hover{
+    color: purple;
+}
+
 span {
     display: inline-block;
     color: rgb(173, 173, 173);
