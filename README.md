@@ -1,3 +1,7 @@
 # webby-tellies
 
-an exploration of interactive narratives on the web
+an exploration of interactive stories on the web
+
+# multi-column
+
+# 
