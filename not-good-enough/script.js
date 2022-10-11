@@ -6,6 +6,6 @@ function checkToggle(){
         setTimeout(function() {
             checkbox.checked = false;
             console.log("hey")
-        }, 1000)
+        }, 800)
     }
 }

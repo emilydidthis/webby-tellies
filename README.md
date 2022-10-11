@@ -2,4 +2,5 @@
 
 an exploration of interactive stories on the web
 
-[Are you an artist?](https://emilydidthis.github.io/webby-tellies/are-you-an-artist/)
+- [Are you an artist?](https://emilydidthis.github.io/webby-tellies/are-you-an-artist/)
+- [(Not) Good Enough](https://emilydidthis.github.io/webby-tellies/not-good-enough/)
