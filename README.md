@@ -2,6 +2,4 @@
 
 an exploration of interactive stories on the web
 
-# multi-column
-
-# 
+[Are you an artist?](https://emilydidthis.github.io/webby-tellies/are-you-an-artist/)
