@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500&display=swap');
+
+body {
+    font-family: 'IBM Plex Sans', serif;
+    /* font-family: 'Source Serif Pro', serif; */
+    font-weight: 400;
+    font-size: 1.25em;
+    margin: 5% 20%;
+    background-color: rgb(29, 29, 29);
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    border-bottom: 1px solid white;
+    color: white;
+}
+
